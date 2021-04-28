@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chengs
-- 👀 I’m interested in vehicle,programming and control
-- 🌱 I’m currently learning MPC, Data structure and Algorithm and Gaussian Process
+- 👀 I’m interested in vehicle dynamic control and vehicle planning
+- 🌱 I’m currently learning MPC and Gaussian Process
 - 📫 To reach me through e-mail chengs1515@163.com
 
 <!---
